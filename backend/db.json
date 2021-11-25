@@ -1,0 +1,38 @@
+{
+  "casa": [
+    {
+      "nomeCasa": "Rastro do Cowboy",
+      "enderecoCasa": "Rodovia Piratininga Bauru",
+      "qtddPessoas": "50",
+      "id": 1
+    }
+  ],
+  "cadastro": [
+    {
+      "email": "asdsadsa@gmail.com",
+      "cpf": "1231321313",
+      "nome": "",
+      "dataNasc": "",
+      "telefone": "",
+      "id": 1
+    },
+    {
+      "email": "aasdasdas@gmail.com",
+      "cpf": "aaa",
+      "nome": "asdasdasdasd",
+      "dataNasc": "2222-02-22",
+      "telefone": "1456788999",
+      "id": 2
+    },
+    {
+      "email": "asdasd@gmail.com",
+      "cpf": "123141414",
+      "nome": "adfafaggaga",
+      "dataNasc": "2222-02-22",
+      "telefone": "1567788899",
+      "id": 3
+    }
+  ],
+  "compra": [],
+  "evento": []
+}
